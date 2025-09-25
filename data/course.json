@@ -34,7 +34,7 @@
   },
   "course_title": "Introduction to Radar Systems",
   "hide_download": true,
-  "course_description": "This set of 10 lectures (about 11+ hours in duration) was excerpted from a three-day course developed at MIT Lincoln Laboratory to provide an understanding of radar systems concepts and technologies to military officers and DoD civilians involved in radar systems development, acquisition, and related fields. That three-day program consists of a mixture of lectures, demonstrations, laboratory sessions, and tours.\n\n{{% resource_link \"f42144dd-8643-4b40-9170-32fd7d1daa38\" \"Online Publication\" %}}\n",
+  "course_description": "This set of 10 lectures (about 11+ hours in duration) was excerpted from a three-day course developed at MIT Lincoln Laboratory to provide an understanding of radar systems concepts and technologies to military officers and DoD civilians involved in radar systems development, acquisition, and related fields. That three-day program consists of a mixture of lectures, demonstrations, laboratory sessions, and tours.\n\n[Online Publication](http://www.ll.mit.edu/workshops/education/videocourses/introradar)\n",
   "department_numbers": [],
   "extra_course_numbers": "",
   "primary_course_number": "RES.LL-001",

@@ -4,8 +4,6 @@ description: ''
 file: /courses/res-ll-001-introduction-to-radar-systems-spring-2007/68fd6d84d7c2efebf728ecfbe7d9b0a7_res-ll-001s07-th.jpg
 file_size: 10097
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: The sequential lobing radar, described in Lecture 9, uses a time sequence
     of beams directed around the track location. (Image by MIT Lincoln Laboratory.
